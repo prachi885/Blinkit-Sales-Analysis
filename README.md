@@ -58,6 +58,4 @@ To conduct a comprehensive analysis of Blinkit's sales performance, customer sat
 - ✅ Clean, presentation-ready format for business stakeholders
 
 
-## 📁 Project Structure
-<pre><code>``` Blinkit-Sales-Analysis/ │ ├── BlinkIT Grocery Data.xlsx # Main raw dataset used for analysis │ ├── blinkit.ipynb # Jupyter Notebook for data cleaning, EDA, KPI calculation, and visualization (Python) │ ├── Blinkit dashboard.xlsx # Final Excel dashboard with charts, slicers, and KPIs │ ├── BLINKIT DASHBOARD.pbix # Power BI dashboard file with visuals and KPIs │ ├── background kpi.png # Power BI or Excel dashboard background image used in README │ └── README.md # Project documentation (this file) ```</code></pre>
 
