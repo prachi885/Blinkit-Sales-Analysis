@@ -49,7 +49,7 @@ To conduct a comprehensive analysis of Blinkit's sales performance, customer sat
 - ✅ **Bar Chart – Total Sales by Fat Content**
 - ✅ **Stacked Column Chart – Fat Content vs Outlet Type**
 - ✅ **Multi-row Card – Average Ratings by Category**
-- ✅ **Map Chart – Sales by Outlet Location (if available)**
+- ✅ **Map Chart – Sales by Outlet Location **
 
 ### Excel Dashboard
 
